@@ -1,10 +1,10 @@
 // Package weather contains forecasts.
 package weather
 
-// CurrentCondition : The current weather.
+// CurrentCondition: The current weather.
 var CurrentCondition string
 
-// CurrentLocation : The location of the weather.
+// CurrentLocation: The location of the weather.
 var CurrentLocation string
 
 // Forecast forecasts the weather for the city.
